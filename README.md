@@ -5,7 +5,7 @@ We are developing an application which provides a way to track proof of plantati
 ### Clone this repo
 
 ```bash
-git clone https://github.com/shashank/greenyfi.git
+git clone https://github.com/shashanka2a/GreenyFi.git
 ```
 
 ### Run
@@ -25,8 +25,8 @@ python manage.py runserver
 - IPFS for image storage.
 - Django for server-side.
 - HTML/TailwindCSS/JS for frontend.
-- Solidity for smart contracts.
-- Hardhat for scripts and configuartion.
+- Solidity for NFT smart contract.
+- Hardhat for scripts and configuration.
 
 
 
