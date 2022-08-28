@@ -1,6 +1,6 @@
 ## GreenyFi
 
-We are developing an application to track proof of plantation leveraging geotagging mechanism and also monitoring the growth of plant, with all these data stored on-chain and reward the users with an NFT upon successful completion.
+We are developing an application which provides a way to track proof of plantation leveraging geotagging technology, with its data stored on IPFS and reward the users with an NFT for taking care of plants consistently.
 
 ### Clone this repo
 
